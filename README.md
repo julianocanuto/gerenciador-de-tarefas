@@ -1,5 +1,7 @@
 # GerenciadorDeTarefas
 
+![Lista de tarefas](https://user-images.githubusercontent.com/17866411/144311995-6e4a1bed-e404-4821-8bc9-47d476e239dc.png)
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.0.3.
 
 ## Development server
