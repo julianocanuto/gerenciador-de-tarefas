@@ -10,7 +10,8 @@ jobs:
 
     steps:
       - uses: actions/checkout@v2
-      - uses: AhsanAyaz/angular-deploy-gh-pages-actions@v1.3.2
+      - name: All things angular
+        uses: AhsanAyaz/angular-deploy-gh-pages-actions@v1.3.2
         with:
           github_access_token: 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
           build_configuration: production
